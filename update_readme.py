@@ -1,4 +1,5 @@
 import json
+import requests
 
 from random       import choice
 from urllib.parse import urlencode
@@ -11,6 +12,14 @@ EMOJIS_TIPO = {
 }
 
 # =====================================================================
+def realizar_download_do_json():
+    FILE_ID  = '13XoxjPstWGxQ-o-45E_zWESLdKk5iPk6'
+    FILE_URL = f'https://drive.google.com/uc?id={FILE_ID}'
+    
+    response = requests.get(FILE_URL)
+    with open('./versos.json', 'wb') as versos_file:
+        versos_file.write( response.content )
+
 def ler_versos_do_arquivo_json():
     with open('./versos.json', 'r', encoding="utf-8") as versos_file:
         versos = json.load(versos_file)
@@ -79,6 +88,8 @@ def escrever_readme(texto):
         readme_file.write(texto)
         
 def main():
+    realizar_download_do_json()
+    
     versos      = ler_versos_do_arquivo_json()
     texto_atual = ler_texto_atual()
     
