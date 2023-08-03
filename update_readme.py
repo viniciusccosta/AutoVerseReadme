@@ -26,7 +26,7 @@ def montar_url_readmetypingsvg(verso):
     
     args = {
         "font"     : "Fira Code",
-        "height"   : 500,
+        "height"   : (len(verso.get('linhas', 0)) + 1) * 30,
         "width"    : 1000,
         "size"     : 20,
         "pause"    : 100,
