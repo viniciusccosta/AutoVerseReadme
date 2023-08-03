@@ -16,6 +16,12 @@ def ler_versos_do_arquivo_json():
         versos = json.load(versos_file)
     return versos
 
+def ler_texto_atual():
+    with open('./README.md', 'r', encoding='utf-8') as readme_file:
+        texto_atual = readme_file.read()
+    
+    return texto_atual
+
 def escolher_verso_randomico(versos):
     verso  = choice(versos)
     return verso
@@ -73,10 +79,16 @@ def escrever_readme(texto):
         readme_file.write(texto)
         
 def main():
-    versos = ler_versos_do_arquivo_json()
-    verso  = choice(versos)
-    url    = montar_url_readmetypingsvg(verso)
-    texto  = montar_texto(url)
+    versos      = ler_versos_do_arquivo_json()
+    texto_atual = ler_texto_atual()
+    
+    for _ in range(5):                                 # Evitando loop infinto e mesma frase/texto do atual
+        verso       = choice(versos)
+        url         = montar_url_readmetypingsvg(verso)
+        texto       = montar_texto(url)
+        
+        if texto != texto_atual:
+            break
     
     escrever_readme(texto)
 
