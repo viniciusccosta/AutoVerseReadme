@@ -77,6 +77,7 @@ def montar_texto(url):
     linhas = [
         '# AutoVerseReadme\n',
         f'[![Typing SVG]({url})](https://git.io/typing-svg)\n',
+        '[Créditos](https://github.com/isyuricunha/pokemon-greeting)\n'
     ]
     
     texto = '\n'.join(linhas)
@@ -84,7 +85,7 @@ def montar_texto(url):
     return texto
 
 def escrever_readme(texto):
-    with open("./README.md", "w") as readme_file:
+    with open("./README.md", "w", encoding='utf8') as readme_file:
         readme_file.write(texto)
         
 def main():
