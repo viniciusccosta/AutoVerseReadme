@@ -1,10 +1,10 @@
 # AutoVerseReadme
 
-<div style="text-align: center;">
+<p align="center">
     <a href="https://git.io/typing-svg">
         <img src="{{ url }}" alt="Image" />
     </a>
-</div>
+</p>
 
 ## Inclusão de Novos Versos
 
