@@ -37,7 +37,7 @@ def escolher_verso_randomico(versos):
     return verso
 
 def montar_url_readmetypingsvg(verso):
-    SEPARATOR = ';;'
+    SEPARATOR = ';'
     BASE_URL  = 'https://readme-typing-svg.demolab.com/'
     
     args = {
@@ -57,8 +57,8 @@ def montar_url_readmetypingsvg(verso):
     
     # Inserindo o texto:
     for linha in verso.get("linhas"):
-        # TODO: Remover todo SEPARATOR do texto original para não confundir com o separador
-        args['lines'].append( linha )
+        linha_limpa = linha.replace(SEPARATOR, '')
+        args['lines'].append( linha_limpa )
     
     # Inserindo a referência no final:
     tipo = verso.get('tipo')
@@ -91,7 +91,7 @@ def main():
     texto_atual = ler_texto_atual()
     
     for _ in range(5):                                 # Evitando loop infinto e a mesma frase/texto do readme atual
-        verso       = choice(versos)
+        verso       = escolher_verso_randomico(versos)
         url         = montar_url_readmetypingsvg(verso)
         texto       = renderizar_template(url)
         
