@@ -3,6 +3,7 @@ import requests
 
 from random       import choice
 from urllib.parse import urlencode
+from jinja2       import Environment, FileSystemLoader
 
 # =====================================================================
 EMOJIS_TIPO = {
@@ -42,7 +43,7 @@ def montar_url_readmetypingsvg(verso):
     args = {
         "font"     : "Fira Code",
         "height"   : (len(verso.get('linhas', 0)) + 1) * 30,
-        "width"    : 1000,
+        "width"    : 500,
         "size"     : 20,
         "pause"    : 100,
         "color"    : "A9FEF7",
@@ -73,15 +74,10 @@ def montar_url_readmetypingsvg(verso):
     
     return full_url
 
-def montar_texto(url):
-    linhas = [
-        '# AutoVerseReadme\n',
-        f'[![Typing SVG]({url})](https://git.io/typing-svg)\n',
-        '[Créditos](https://github.com/isyuricunha/pokemon-greeting)\n'
-    ]
-    
-    texto = '\n'.join(linhas)
-    
+def renderizar_template(url):
+    env      = Environment(loader=FileSystemLoader("."))
+    template = env.get_template("template.md")
+    texto    = template.render(url=url)
     return texto
 
 def escrever_readme(texto):
@@ -94,10 +90,10 @@ def main():
     versos      = ler_versos_do_arquivo_json()
     texto_atual = ler_texto_atual()
     
-    for _ in range(5):                                 # Evitando loop infinto e mesma frase/texto do atual
+    for _ in range(5):                                 # Evitando loop infinto e a mesma frase/texto do readme atual
         verso       = choice(versos)
         url         = montar_url_readmetypingsvg(verso)
-        texto       = montar_texto(url)
+        texto       = renderizar_template(url)
         
         if texto != texto_atual:
             break
