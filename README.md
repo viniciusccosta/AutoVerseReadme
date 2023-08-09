@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Ele+vale+mais+que+ouro%3Bmais+que+o+meu+conforto%21%3BEle+%C3%A9+mais+que+uma+sensa%C3%A7%C3%A3o%3B%C3%A9+muito+mais+que+uma+reuni%C3%A3o%21%3BEle+n%C3%A3o+se+encaixa+na+caixa%3Bque+a+sociedade+imp%C3%B5e%3BEle+%C3%A9+muito+mais%21+%C3%89+muito+mais%21%3B%F0%9F%8E%B5+Palankin+-+Epifania+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=360&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Voc%C3%AAs+ouvir%C3%A3o%2C+mas+n%C3%A3o+entender%C3%A3o%3Bolhar%C3%A3o%2C+mas+n%C3%A3o+enxergar%C3%A3o+nada%3BPois+a+mente+deste+povo+est%C3%A1+fechada%3A%3BEles+taparam+os+ouvidos%3Be+fecharam+os+olhos%3BSe+eles+n%C3%A3o+tivessem+feito+isso%3Bos+seus+olhos+poderiam+ver%3Be+os+seus+ouvidos+poderiam+ouvir%3Ba+sua+mente+poderia+entender%3Be+eles+voltariam+para+mim%3Be+eu+os+curaria%21+%E2%80%94+disse+Deus%3B%E2%9C%9D%EF%B8%8F+Mateus+13%3A14-15+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
