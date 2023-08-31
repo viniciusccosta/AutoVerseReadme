@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Mas+ningu%C3%A9m+sabe+nem+o+dia+nem+a+hora%3Bem+que+tudo+isso+vai+acontecer%2C%3Bnem+os+anjos+do+c%C3%A9u%2C%3Bnem+o+Filho%2C%3Bmas+somente+o+Pai.%3BA+vinda+do+Filho+do+Homem%3Bser%C3%A1+como+aquilo+que+aconteceu+no+tempo+de+No%C3%A9.%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A36-37+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Este+povo+com+a+sua+boca+diz%3Bque+me+respeita%2C%3Bmas+na+verdade+o+seu+cora%C3%A7%C3%A3o%3Best%C3%A1+longe+de+mim.%3BA+adora%C3%A7%C3%A3o+deste+povo+%C3%A9+in%C3%BAtil%2C%3Bpois+eles+ensinam+leis+humanas%3Bcomo+se+fossem+meus+mandamentos.%3B%E2%9C%9D%EF%B8%8F+Mateus+15%3A8-9+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
