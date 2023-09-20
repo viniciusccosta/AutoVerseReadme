@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Felizes+as+pessoas%3Bque+sofrem+persegui%C3%A7%C3%B5es%3Bpor+fazerem+a+vontade+de+Deus%2C%3Bpois+o+Reino+do+C%C3%A9u+%C3%A9+delas.%3B%E2%9C%9D%EF%B8%8F+Mateus+5%3A10+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eu+fico+cansado+de+ver%3Ba+maldade+no+meio+da+rua%3BAqueles+que+ganham+a+vida%3Bdaqueles+que+perdem+as+suas%3B%C3%89+gente+que+quer+o+mal%3Bpra+gente+que+faz+o+bem%3B%C3%89+gente+de+dignidade%3Bque+vive+com+medo+de+quem+n%C3%A3o+tem%3B%F0%9F%8E%B5+Resgate+-+A+hora+do+Brasil+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
