@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=180&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=O+que+adianta+algu%C3%A9m%3Bganhar+o+mundo+inteiro%2C%3Bmas+perder+a+vida+verdadeira%3F%3BPois+n%C3%A3o+h%C3%A1+nada+que+poder%C3%A1%3Bpagar+para+ter+de+volta+essa+vida.%3B%E2%9C%9D%EF%B8%8F+Mateus+16%3A26+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eu+monto+o+paradoxo+no+palco%3BVoc%C3%AA+anda+zombando+da+Cruz%3BA+cidade+est%C3%A1+cheia+de+atores%3BNa+cidade+dos+homens%3Btem+gente+que+consegue+dizer%3BMas+os+outros+est%C3%A3o+mudos+pra+Ti%3B%F0%9F%8E%B5+Palavraantiga+-+Rookmaaker+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
