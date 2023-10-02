@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=360&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Voc%C3%AAs+ouvir%C3%A3o%2C+mas+n%C3%A3o+entender%C3%A3o%3Bolhar%C3%A3o%2C+mas+n%C3%A3o+enxergar%C3%A3o+nada%3BPois+a+mente+deste+povo+est%C3%A1+fechada%3A%3BEles+taparam+os+ouvidos%3Be+fecharam+os+olhos%3BSe+eles+n%C3%A3o+tivessem+feito+isso%3Bos+seus+olhos+poderiam+ver%3Be+os+seus+ouvidos+poderiam+ouvir%3Ba+sua+mente+poderia+entender%3Be+eles+voltariam+para+mim%3Be+eu+os+curaria%21+%E2%80%94+disse+Deus%3B%E2%9C%9D%EF%B8%8F+Mateus+13%3A14-15+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Os+olhos+s%C3%A3o+como+uma+luz+para+o+corpo%3A%3Bquando+os+olhos+de+voc%C3%AAs+s%C3%A3o+bons%2C%3Btodo+o+seu+corpo+fica+cheio+de+luz.%3BPor%C3%A9m%2C+se+os+seus+olhos+forem+maus%2C%3Bo+seu+corpo+ficar%C3%A1+cheio+de+escurid%C3%A3o.%3BAssim%2C+se+a+luz+que+est%C3%A1+em+voc%C3%AA%3Bvirar+escurid%C3%A3o%2C%3Bcomo+ser%C3%A1+terr%C3%ADvel+essa+escurid%C3%A3o%21%3B%E2%9C%9D%EF%B8%8F+Mateus+6%3A22-23+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
