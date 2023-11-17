@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Diziam+que+eram+coitados%3Bamorda%C3%A7ados+pela+censura%3BAgora+desfilam+nas+bancas%3Bimprimem+a+pr%C3%B3pria+ditadura%3BPobre+de+ti%2C+Betsaida%21%3BAi+de+ti%2C+Corazim%21%3BDessa+nossa+garganta%3Bvir%C3%A1+o+ju%C3%ADzo+do+teu+fim%3B%F0%9F%8E%B5+Resgate+-+A+hora+do+Brasil+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Mas+ningu%C3%A9m+sabe+nem+o+dia+nem+a+hora%3Bem+que+tudo+isso+vai+acontecer%2C%3Bnem+os+anjos+do+c%C3%A9u%2C+nem+o+Filho%2C%3Bmas+somente+o+Pai.%3BA+vinda+do+Filho+do+Homem+ser%C3%A1%3Bcomo+aquilo+que+aconteceu+no+tempo+de+No%C3%A9%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A36-37+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
