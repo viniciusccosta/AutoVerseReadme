@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=180&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=N%C3%A3o+%C3%A9+toda+pessoa+que+me+chama+de%3B%27%27Senhor%2C+Senhor%27%27%3Bque+entrar%C3%A1+no+Reino+do+C%C3%A9u%2C%3Bmas+somente+quem+faz+a+vontade%3Bdo+meu+Pai%2C+que+est%C3%A1+no+c%C3%A9u.%3B%E2%9C%9D%EF%B8%8F+Mateus+7%3A21+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eu+fico+cansado+de+ver%3Ba+maldade+no+meio+da+rua%3BAqueles+que+ganham+a+vida%3Bdaqueles+que+perdem+as+suas%3B%C3%89+gente+que+quer+o+mal%3Bpra+gente+que+faz+o+bem%3B%C3%89+gente+de+dignidade%3Bque+vive+com+medo+de+quem+n%C3%A3o+tem%3B%F0%9F%8E%B5+Resgate+-+A+hora+do+Brasil+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
