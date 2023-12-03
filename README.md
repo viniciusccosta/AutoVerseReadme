@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=360&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Voc%C3%AAs+ouvir%C3%A3o%2C+mas+n%C3%A3o+entender%C3%A3o%3Bolhar%C3%A3o%2C+mas+n%C3%A3o+enxergar%C3%A3o+nada%3BPois+a+mente+deste+povo+est%C3%A1+fechada%3A%3BEles+taparam+os+ouvidos%3Be+fecharam+os+olhos%3BSe+eles+n%C3%A3o+tivessem+feito+isso%3Bos+seus+olhos+poderiam+ver%3Be+os+seus+ouvidos+poderiam+ouvir%3Ba+sua+mente+poderia+entender%3Be+eles+voltariam+para+mim%3Be+eu+os+curaria%21+%E2%80%94+disse+Deus%3B%E2%9C%9D%EF%B8%8F+Mateus+13%3A14-15+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Este+povo+com+a+sua+boca+diz%3Bque+me+respeita%2C%3Bmas+na+verdade+o+seu+cora%C3%A7%C3%A3o%3Best%C3%A1+longe+de+mim.%3BA+adora%C3%A7%C3%A3o+deste+povo+%C3%A9+in%C3%BAtil%2C%3Bpois+eles+ensinam+leis+humanas%3Bcomo+se+fossem+meus+mandamentos.%3B%E2%9C%9D%EF%B8%8F+Mateus+15%3A8-9+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
