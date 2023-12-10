@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=330&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Ame+o+Senhor%2C+seu+Deus%2C%3Bcom+todo+o+cora%C3%A7%C3%A3o%2C%3Bcom+toda+a+alma%3Be+com+toda+a+mente.%E2%80%9D%3BEste+%C3%A9+o+maior+mandamento%3Be+o+mais+importante.%3BE+o+segundo+mais+importante%3B%C3%A9+parecido+com+o+primeiro%3BAme+os+outros%3Bcomo+voc%C3%AA+ama+a+voc%C3%AA+mesmo.%3B%E2%9C%9D%EF%B8%8F+Mateus+22%3A37-39+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Que+o+Senhor+os+aben%C3%A7oe%3Be+os+guarde%3Bque+o+Senhor+os+trate+com+bondade%3Be+miseric%C3%B3rdia%3Bque+o+Senhor+olhe+para+voc%C3%AAs+com+amor%3Be+lhes+d%C3%AA+a+paz.%3B%E2%9C%9D%EF%B8%8F+N%C3%BAmeros+24%3A26+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
