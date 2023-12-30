@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Por+isso+voc%C3%AAs+tamb%C3%A9m+fiquem+vigiando%2C%3Bpois+o+Filho+do+Homem+chegar%C3%A1%3Bna+hora+em+que+voc%C3%AAs%3Bn%C3%A3o+estiverem+esperando%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A44+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Que+o+Senhor+os+aben%C3%A7oe%3Be+os+guarde%3Bque+o+Senhor+os+trate+com+bondade%3Be+miseric%C3%B3rdia%3Bque+o+Senhor+olhe+para+voc%C3%AAs+com+amor%3Be+lhes+d%C3%AA+a+paz.%3B%E2%9C%9D%EF%B8%8F+N%C3%BAmeros+24%3A26+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
