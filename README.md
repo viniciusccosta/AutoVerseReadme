@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Ele+vale+mais+que+ouro%3Bmais+que+o+meu+conforto%21%3BEle+%C3%A9+mais+que+uma+sensa%C3%A7%C3%A3o%3B%C3%A9+muito+mais+que+uma+reuni%C3%A3o%21%3BEle+n%C3%A3o+se+encaixa+na+caixa%3Bque+a+sociedade+imp%C3%B5e%3BEle+%C3%A9+muito+mais%21+%C3%89+muito+mais%21%3B%F0%9F%8E%B5+Palankin+-+Epifania+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=180&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=O+que+adianta+algu%C3%A9m%3Bganhar+o+mundo+inteiro%2C%3Bmas+perder+a+vida+verdadeira%3F%3BPois+n%C3%A3o+h%C3%A1+nada+que+poder%C3%A1%3Bpagar+para+ter+de+volta+essa+vida.%3B%E2%9C%9D%EF%B8%8F+Mateus+16%3A26+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
