@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=390&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Ent%C3%A3o+o+sinal+do+Filho+do+Homem%3Baparecer%C3%A1+no+c%C3%A9u.%3BTodos+os+povos+da+terra+chorar%C3%A3o%3Be+ver%C3%A3o+o+Filho+do+Homem%3Bdescendo+nas+nuvens%3Bcom+poder+e+grande+gl%C3%B3ria.%3BA+grande+trombeta+tocar%C3%A1%2C%3Be+ele+mandar%C3%A1+os+seus+anjos%3Bpara+os+quatro+cantos+da+terra.%3BE+os+anjos+reunir%C3%A3o%3Bos+escolhidos+de+Deus%3Bde+um+lado+do+mundo+at%C3%A9+o+outro.%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A30-31+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eu+monto+o+paradoxo+no+palco%3BVoc%C3%AA+anda+zombando+da+Cruz%3BA+cidade+est%C3%A1+cheia+de+atores%3BNa+cidade+dos+homens%3Btem+gente+que+consegue+dizer%3BMas+os+outros+est%C3%A3o+mudos+pra+Ti%3B%F0%9F%8E%B5+Palavraantiga+-+Rookmaaker+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
