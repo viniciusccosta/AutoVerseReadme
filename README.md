@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=A+maldade+vai+se+espalhar+tanto%2C%3Bque+o+amor+de+muitos+esfriar%C3%A1%3Bmas+quem+ficar+firme%3Bat%C3%A9+o+fim+ser%C3%A1+salvo.%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A12-13+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Pe%C3%A7am+e+voc%C3%AAs+receber%C3%A3o%3Bprocurem+e+voc%C3%AAs+achar%C3%A3o%3Bbatam%2C+e+a+porta+ser%C3%A1+aberta+para+voc%C3%AAs.%3BPorque+todos+aqueles+que+pedem+recebem%3Baqueles+que+procuram+acham%3Be+a+porta+ser%C3%A1+aberta+para+quem+bate.%3B%E2%9C%9D%EF%B8%8F+Mateus+7%3A7-8+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
