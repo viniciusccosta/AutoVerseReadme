@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eles+confundem+ilus%C3%A3o+com+liberdade%3BSe+dizem+sim%2C+se+dizem+livres%3BMas+n%C3%A3o+podem+dizer+n%C3%A3o%3BFazem+de+conta+que+a+imita%C3%A7%C3%A3o+%C3%A9+de+verdade%3B%F0%9F%8E%B5+Resgate+-+Ne%C3%B3fito+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Mas+ningu%C3%A9m+sabe+nem+o+dia+nem+a+hora%3Bem+que+tudo+isso+vai+acontecer%2C%3Bnem+os+anjos+do+c%C3%A9u%2C+nem+o+Filho%2C%3Bmas+somente+o+Pai.%3BA+vinda+do+Filho+do+Homem+ser%C3%A1%3Bcomo+aquilo+que+aconteceu+no+tempo+de+No%C3%A9%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A36-37+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
