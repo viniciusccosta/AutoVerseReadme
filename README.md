@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=330&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Ame+o+Senhor%2C+seu+Deus%2C%3Bcom+todo+o+cora%C3%A7%C3%A3o%2C%3Bcom+toda+a+alma%3Be+com+toda+a+mente.%E2%80%9D%3BEste+%C3%A9+o+maior+mandamento%3Be+o+mais+importante.%3BE+o+segundo+mais+importante%3B%C3%A9+parecido+com+o+primeiro%3BAme+os+outros%3Bcomo+voc%C3%AA+ama+a+voc%C3%AA+mesmo.%3B%E2%9C%9D%EF%B8%8F+Mateus+22%3A37-39+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Os+olhos+s%C3%A3o+como+uma+luz+para+o+corpo%3A%3Bquando+os+olhos+de+voc%C3%AAs+s%C3%A3o+bons%2C%3Btodo+o+seu+corpo+fica+cheio+de+luz.%3BPor%C3%A9m%2C+se+os+seus+olhos+forem+maus%2C%3Bo+seu+corpo+ficar%C3%A1+cheio+de+escurid%C3%A3o.%3BAssim%2C+se+a+luz+que+est%C3%A1+em+voc%C3%AA%3Bvirar+escurid%C3%A3o%2C%3Bcomo+ser%C3%A1+terr%C3%ADvel+essa+escurid%C3%A3o%21%3B%E2%9C%9D%EF%B8%8F+Mateus+6%3A22-23+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
