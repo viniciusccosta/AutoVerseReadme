@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eu+fico+cansado+de+ver%3Ba+maldade+no+meio+da+rua%3BAqueles+que+ganham+a+vida%3Bdaqueles+que+perdem+as+suas%3B%C3%89+gente+que+quer+o+mal%3Bpra+gente+que+faz+o+bem%3B%C3%89+gente+de+dignidade%3Bque+vive+com+medo+de+quem+n%C3%A3o+tem%3B%F0%9F%8E%B5+Resgate+-+A+hora+do+Brasil+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=300&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Felizes+s%C3%A3o+voc%C3%AAs+quando+os+insultam%2C%3Bperseguem+e+dizem+todo+tipo+de+cal%C3%BAnia%3Bcontra+voc%C3%AAs+por+serem+meus+seguidores.%3BFiquem+alegres+e+felizes%2C%3Bpois+uma+grande+recompensa%3Best%C3%A1+guardada+no+c%C3%A9u+para+voc%C3%AAs.%3BPorque+foi+assim+mesmo%3Bque+perseguiram+os+profetas%3Bque+viveram+antes+de+voc%C3%AAs.%3B%E2%9C%9D%EF%B8%8F+Mateus+5%3A11-12+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
