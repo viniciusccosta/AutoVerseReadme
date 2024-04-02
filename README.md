@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Mas+ningu%C3%A9m+sabe+nem+o+dia+nem+a+hora%3Bem+que+tudo+isso+vai+acontecer%2C%3Bnem+os+anjos+do+c%C3%A9u%2C+nem+o+Filho%2C%3Bmas+somente+o+Pai.%3BA+vinda+do+Filho+do+Homem+ser%C3%A1%3Bcomo+aquilo+que+aconteceu+no+tempo+de+No%C3%A9%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A36-37+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Deus+n%C3%A3o+%C3%A9+como+os+homens%2C%3Bque+mentem%3Bn%C3%A3o+%C3%A9+um+ser+humano%2C%3Bque+muda+de+ideia.%3BQuando+foi+que+Deus+prometeu%3Be+n%C3%A3o+cumpriu%3F%3BEle+diz+que+faz+e+faz+mesmo.%3B%E2%9C%9D%EF%B8%8F+N%C3%BAmeros+23%3A19+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
