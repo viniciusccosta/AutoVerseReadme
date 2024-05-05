@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=390&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Grave+o+meu+nome+no+seu+cora%C3%A7%C3%A3o%3Be+no+anel+que+est%C3%A1+no+seu+dedo.%3BO+amor+%C3%A9+t%C3%A3o+poderoso+como+a+morte%3Be+a+paix%C3%A3o+%C3%A9+t%C3%A3o+forte+como+a+sepultura.%3BO+amor+e+a+paix%C3%A3o+explodem+em+chamas%3Be+queimam+como+fogo+furioso.%3BNenhuma+quantidade+de+%C3%A1gua%3Bpode+apagar+o+amor%2C%3Be+nenhum+rio+pode+afog%C3%A1-lo.%3BSe+algu%C3%A9m+quisesse+comprar+o+amor%3Be+por+ele+oferecesse+as+suas+riquezas%2C%3Breceberia+somente+o+desprezo.%3B%E2%9C%9D%EF%B8%8F+Cantares+8%3A6-7+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Muitos+entregar%C3%A3o+os+seus+pr%C3%B3prios+irm%C3%A3os%3Bpara+serem+mortos%2C%3Be+os+pais+entregar%C3%A3o+os+filhos.%3BOs+filhos+ficar%C3%A3o+contra+os+pais%3Be+os+matar%C3%A3o.%3BTodos+odiar%C3%A3o+voc%C3%AAs%3Bpor+serem+meus+seguidores.%3BMas+quem+ficar+firme+at%C3%A9+o+fim+ser%C3%A1+salvo%3B%E2%9C%9D%EF%B8%8F+Mateus+10%3A21-22+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
