@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=300&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Felizes+s%C3%A3o+voc%C3%AAs+quando+os+insultam%2C%3Bperseguem+e+dizem+todo+tipo+de+cal%C3%BAnia%3Bcontra+voc%C3%AAs+por+serem+meus+seguidores.%3BFiquem+alegres+e+felizes%2C%3Bpois+uma+grande+recompensa%3Best%C3%A1+guardada+no+c%C3%A9u+para+voc%C3%AAs.%3BPorque+foi+assim+mesmo%3Bque+perseguiram+os+profetas%3Bque+viveram+antes+de+voc%C3%AAs.%3B%E2%9C%9D%EF%B8%8F+Mateus+5%3A11-12+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=360&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Voc%C3%AAs+ouvir%C3%A3o%2C+mas+n%C3%A3o+entender%C3%A3o%3Bolhar%C3%A3o%2C+mas+n%C3%A3o+enxergar%C3%A3o+nada%3BPois+a+mente+deste+povo+est%C3%A1+fechada%3A%3BEles+taparam+os+ouvidos%3Be+fecharam+os+olhos%3BSe+eles+n%C3%A3o+tivessem+feito+isso%3Bos+seus+olhos+poderiam+ver%3Be+os+seus+ouvidos+poderiam+ouvir%3Ba+sua+mente+poderia+entender%3Be+eles+voltariam+para+mim%3Be+eu+os+curaria%21+%E2%80%94+disse+Deus%3B%E2%9C%9D%EF%B8%8F+Mateus+13%3A14-15+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
