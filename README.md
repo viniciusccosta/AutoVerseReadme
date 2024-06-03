@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=390&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Grave+o+meu+nome+no+seu+cora%C3%A7%C3%A3o%3Be+no+anel+que+est%C3%A1+no+seu+dedo.%3BO+amor+%C3%A9+t%C3%A3o+poderoso+como+a+morte%3Be+a+paix%C3%A3o+%C3%A9+t%C3%A3o+forte+como+a+sepultura.%3BO+amor+e+a+paix%C3%A3o+explodem+em+chamas%3Be+queimam+como+fogo+furioso.%3BNenhuma+quantidade+de+%C3%A1gua%3Bpode+apagar+o+amor%2C%3Be+nenhum+rio+pode+afog%C3%A1-lo.%3BSe+algu%C3%A9m+quisesse+comprar+o+amor%3Be+por+ele+oferecesse+as+suas+riquezas%2C%3Breceberia+somente+o+desprezo.%3B%E2%9C%9D%EF%B8%8F+Cantares+8%3A6-7+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=390&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Ent%C3%A3o+o+sinal+do+Filho+do+Homem%3Baparecer%C3%A1+no+c%C3%A9u.%3BTodos+os+povos+da+terra+chorar%C3%A3o%3Be+ver%C3%A3o+o+Filho+do+Homem%3Bdescendo+nas+nuvens%3Bcom+poder+e+grande+gl%C3%B3ria.%3BA+grande+trombeta+tocar%C3%A1%2C%3Be+ele+mandar%C3%A1+os+seus+anjos%3Bpara+os+quatro+cantos+da+terra.%3BE+os+anjos+reunir%C3%A3o%3Bos+escolhidos+de+Deus%3Bde+um+lado+do+mundo+at%C3%A9+o+outro.%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A30-31+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
