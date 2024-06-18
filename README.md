@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Pois+quem+p%C3%B5e%3Bos+seus+pr%C3%B3prios+interesses%3Bem+primeiro+lugar%3Bnunca+ter%C3%A1+a+vida+verdadeira%3Bmas+quem+esquece+a+si+mesmo%3Bpor+minha+causa%3Bter%C3%A1+a+vida+verdadeira.%3B%E2%9C%9D%EF%B8%8F+Mateus+16%3A25+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Aqui+est%C3%A1+o+meu+cora%C3%A7%C3%A3o%3BTentando+entender+esta+situa%C3%A7%C3%A3o%3BN%C3%A3o+quero+algo+plastificado%3BEu+preciso+mais+que+uma+religi%C3%A3o%3BPreciso+de+mudan%C3%A7as+de+h%C3%A1bitos%3BMais+que+um+show+de+bonecos+de+pl%C3%A1stico%3B%F0%9F%8E%B5+Palankin+-+Bonecos+de+Pl%C3%A1stico+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
