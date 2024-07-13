@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=At%C3%A9+que+o+Senhor+venha%3BEu+vou+clamar%3BAt%C3%A9+que+o+Senhor+venha%3BEu+n%C3%A3o+vou+descansar%3BAt%C3%A9+que+o+Senhor+venha%3BEu+vou+gastar+a+minha+vida%3BDiante+do+Teu+altar%2C+Deus%3BDiante+do+Teu+altar%3B%F0%9F%8E%B5+Minist%C3%A9rio+Zoe+-+At%C3%A9+que+o+Senhor+venha+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eu+fico+cansado+de+ver%3Ba+maldade+no+meio+da+rua%3BAqueles+que+ganham+a+vida%3Bdaqueles+que+perdem+as+suas%3B%C3%89+gente+que+quer+o+mal%3Bpra+gente+que+faz+o+bem%3B%C3%89+gente+de+dignidade%3Bque+vive+com+medo+de+quem+n%C3%A3o+tem%3B%F0%9F%8E%B5+Resgate+-+A+hora+do+Brasil+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
