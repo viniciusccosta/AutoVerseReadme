@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=360&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Voc%C3%AAs+ouvir%C3%A3o%2C+mas+n%C3%A3o+entender%C3%A3o%3Bolhar%C3%A3o%2C+mas+n%C3%A3o+enxergar%C3%A3o+nada%3BPois+a+mente+deste+povo+est%C3%A1+fechada%3A%3BEles+taparam+os+ouvidos%3Be+fecharam+os+olhos%3BSe+eles+n%C3%A3o+tivessem+feito+isso%3Bos+seus+olhos+poderiam+ver%3Be+os+seus+ouvidos+poderiam+ouvir%3Ba+sua+mente+poderia+entender%3Be+eles+voltariam+para+mim%3Be+eu+os+curaria%21+%E2%80%94+disse+Deus%3B%E2%9C%9D%EF%B8%8F+Mateus+13%3A14-15+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=390&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Grave+o+meu+nome+no+seu+cora%C3%A7%C3%A3o%3Be+no+anel+que+est%C3%A1+no+seu+dedo.%3BO+amor+%C3%A9+t%C3%A3o+poderoso+como+a+morte%3Be+a+paix%C3%A3o+%C3%A9+t%C3%A3o+forte+como+a+sepultura.%3BO+amor+e+a+paix%C3%A3o+explodem+em+chamas%3Be+queimam+como+fogo+furioso.%3BNenhuma+quantidade+de+%C3%A1gua%3Bpode+apagar+o+amor%2C%3Be+nenhum+rio+pode+afog%C3%A1-lo.%3BSe+algu%C3%A9m+quisesse+comprar+o+amor%3Be+por+ele+oferecesse+as+suas+riquezas%2C%3Breceberia+somente+o+desprezo.%3B%E2%9C%9D%EF%B8%8F+Cantares+8%3A6-7+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
