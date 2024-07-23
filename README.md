@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Muitos+entregar%C3%A3o+os+seus+pr%C3%B3prios+irm%C3%A3os%3Bpara+serem+mortos%2C%3Be+os+pais+entregar%C3%A3o+os+filhos.%3BOs+filhos+ficar%C3%A3o+contra+os+pais%3Be+os+matar%C3%A3o.%3BTodos+odiar%C3%A3o+voc%C3%AAs%3Bpor+serem+meus+seguidores.%3BMas+quem+ficar+firme+at%C3%A9+o+fim+ser%C3%A1+salvo%3B%E2%9C%9D%EF%B8%8F+Mateus+10%3A21-22+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Este+povo+com+a+sua+boca+diz%3Bque+me+respeita%2C%3Bmas+na+verdade+o+seu+cora%C3%A7%C3%A3o%3Best%C3%A1+longe+de+mim.%3BA+adora%C3%A7%C3%A3o+deste+povo+%C3%A9+in%C3%BAtil%2C%3Bpois+eles+ensinam+leis+humanas%3Bcomo+se+fossem+meus+mandamentos.%3B%E2%9C%9D%EF%B8%8F+Mateus+15%3A8-9+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
