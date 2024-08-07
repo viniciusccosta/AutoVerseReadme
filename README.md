@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=300&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Seja+forte+e+corajoso%3Bpois+voc%C3%AA+vai+comandar+este+povo%3Bna+conquista+da+terra+que+o+Senhor%3Bjurou+que+daria+aos+nossos+antepassados.%3BO+Senhor+Deus+ir%C3%A1+na+sua+frente%3Bele+mesmo+estar%C3%A1+com+voc%C3%AA%3Be+n%C3%A3o+o+deixar%C3%A1%2C%3Bn%C3%A3o+o+abandonar%C3%A1.%3BN%C3%A3o+se+assuste%2C+nem+tenha+medo.%3B%E2%9C%9D%EF%B8%8F+Deuteron%C3%B4mio+31%3A7-8+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=You%27ve+given+me+a+new+heart%2C+true+reality%3BI%27m+living+for+the+One+who+set+me+free%3BYou%27ve+given+m%D0%B5+Your+vision%2C+better+than+a+dream%3BYou+ain%27t+gotta+wak%D0%B5+me+up%3BIt%27s+not+a+fantasy%3BDa-da-da-da-da-da%3B%F0%9F%8E%B5+Hillsong+Young+%26+Free+-+Phenomena+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
