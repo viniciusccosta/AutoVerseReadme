@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Ele+vale+mais+que+ouro%3Bmais+que+o+meu+conforto%21%3BEle+%C3%A9+mais+que+uma+sensa%C3%A7%C3%A3o%3B%C3%A9+muito+mais+que+uma+reuni%C3%A3o%21%3BEle+n%C3%A3o+se+encaixa+na+caixa%3Bque+a+sociedade+imp%C3%B5e%3BEle+%C3%A9+muito+mais%21+%C3%89+muito+mais%21%3B%F0%9F%8E%B5+Palankin+-+Epifania+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=300&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Seja+forte+e+corajoso%3Bpois+voc%C3%AA+vai+comandar+este+povo%3Bna+conquista+da+terra+que+o+Senhor%3Bjurou+que+daria+aos+nossos+antepassados.%3BO+Senhor+Deus+ir%C3%A1+na+sua+frente%3Bele+mesmo+estar%C3%A1+com+voc%C3%AA%3Be+n%C3%A3o+o+deixar%C3%A1%2C%3Bn%C3%A3o+o+abandonar%C3%A1.%3BN%C3%A3o+se+assuste%2C+nem+tenha+medo.%3B%E2%9C%9D%EF%B8%8F+Deuteron%C3%B4mio+31%3A7-8+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
