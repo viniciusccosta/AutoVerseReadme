@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eu+monto+o+paradoxo+no+palco%3BVoc%C3%AA+anda+zombando+da+Cruz%3BA+cidade+est%C3%A1+cheia+de+atores%3BNa+cidade+dos+homens%3Btem+gente+que+consegue+dizer%3BMas+os+outros+est%C3%A3o+mudos+pra+Ti%3B%F0%9F%8E%B5+Palavraantiga+-+Rookmaaker+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Por+isso+voc%C3%AAs+tamb%C3%A9m+fiquem+vigiando%2C%3Bpois+o+Filho+do+Homem+chegar%C3%A1%3Bna+hora+em+que+voc%C3%AAs%3Bn%C3%A3o+estiverem+esperando%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A44+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
