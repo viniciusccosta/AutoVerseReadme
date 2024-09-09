@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Por+isso+voc%C3%AAs+tamb%C3%A9m+fiquem+vigiando%2C%3Bpois+o+Filho+do+Homem+chegar%C3%A1%3Bna+hora+em+que+voc%C3%AAs%3Bn%C3%A3o+estiverem+esperando%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A44+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=You%27ve+given+me+a+new+heart%2C+true+reality%3BI%27m+living+for+the+One+who+set+me+free%3BYou%27ve+given+m%D0%B5+Your+vision%2C+better+than+a+dream%3BYou+ain%27t+gotta+wak%D0%B5+me+up%3BIt%27s+not+a+fantasy%3BDa-da-da-da-da-da%3B%F0%9F%8E%B5+Hillsong+Young+%26+Free+-+Phenomena+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
