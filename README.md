@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eu+habito+em+voc%C3%AA%3BVoc%C3%AA+habita+em+mim%3BNossa+can%C3%A7%C3%A3o+n%C3%A3o+mudou%3BEu+te+amo+e+voc%C3%AA+me+ama%3B%F0%9F%8E%B5+Luzlive+-+Trindade+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Nunca+desista+da+vida%3BTudo+%C3%A9+poss%C3%ADvel+ao+que+cr%C3%AA%3BSempre+existe+uma+sa%C3%ADda%3BDeus+n%C3%A3o+se+esqueceu+de+voc%C3%AA%3B%F0%9F%8E%B5+Luzlive+-+Sorria+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
