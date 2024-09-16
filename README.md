@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=330&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Jerusal%C3%A9m%2C+Jerusal%C3%A9m%2C%3Bque+mata+os+profetas%3Be+apedreja+os+mensageiros%3Bque+Deus+lhe+manda%21%3BQuantas+vezes+eu+quis+abra%C3%A7ar%3Btodo+o+seu+povo%2C%3Bassim+como+a+galinha%3Bajunta+os+seus+pintinhos%3Bdebaixo+das+suas+asas%2C%3Bmas+voc%C3%AAs+n%C3%A3o+quiseram%21%3B%E2%9C%9D%EF%B8%8F+Mateus+26%3A37+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Este+povo+com+a+sua+boca+diz%3Bque+me+respeita%2C%3Bmas+na+verdade+o+seu+cora%C3%A7%C3%A3o%3Best%C3%A1+longe+de+mim.%3BA+adora%C3%A7%C3%A3o+deste+povo+%C3%A9+in%C3%BAtil%2C%3Bpois+eles+ensinam+leis+humanas%3Bcomo+se+fossem+meus+mandamentos.%3B%E2%9C%9D%EF%B8%8F+Mateus+15%3A8-9+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
