@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Este+povo+com+a+sua+boca+diz%3Bque+me+respeita%2C%3Bmas+na+verdade+o+seu+cora%C3%A7%C3%A3o%3Best%C3%A1+longe+de+mim.%3BA+adora%C3%A7%C3%A3o+deste+povo+%C3%A9+in%C3%BAtil%2C%3Bpois+eles+ensinam+leis+humanas%3Bcomo+se+fossem+meus+mandamentos.%3B%E2%9C%9D%EF%B8%8F+Mateus+15%3A8-9+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Aqui+est%C3%A1+o+meu+cora%C3%A7%C3%A3o%3BTentando+entender+esta+situa%C3%A7%C3%A3o%3BN%C3%A3o+quero+algo+plastificado%3BEu+preciso+mais+que+uma+religi%C3%A3o%3BPreciso+de+mudan%C3%A7as+de+h%C3%A1bitos%3BMais+que+um+show+de+bonecos+de+pl%C3%A1stico%3B%F0%9F%8E%B5+Palankin+-+Bonecos+de+Pl%C3%A1stico+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
