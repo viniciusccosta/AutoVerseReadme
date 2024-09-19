@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eu+monto+o+paradoxo+no+palco%3BVoc%C3%AA+anda+zombando+da+Cruz%3BA+cidade+est%C3%A1+cheia+de+atores%3BNa+cidade+dos+homens%3Btem+gente+que+consegue+dizer%3BMas+os+outros+est%C3%A3o+mudos+pra+Ti%3B%F0%9F%8E%B5+Palavraantiga+-+Rookmaaker+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Nada+quebrado%2C+nada+faltando%3BNada+fora+do+lugar%3BTudo+novo%2C+tudo+novo%3BTudo+novo%2C+a+tua+presen%C3%A7a+faz%3B%F0%9F%8E%B5+Luzlive+-+Paz+Sem+Fim+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
