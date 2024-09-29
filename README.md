@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Hello%2C+good+morning%2C+how+you+do%3F%3BWhat+makes+your+rising+sun+so+new%3F%3BI+could+use+a+fresh+beginning+too%3BAll+of+my+regrets+are+nothing+new%3B%F0%9F%8E%B5+Switchfoot+-+Learning+to+Breathe+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Nunca+desista+da+vida%3BTudo+%C3%A9+poss%C3%ADvel+ao+que+cr%C3%AA%3BSempre+existe+uma+sa%C3%ADda%3BDeus+n%C3%A3o+se+esqueceu+de+voc%C3%AA%3B%F0%9F%8E%B5+Luzlive+-+Sorria+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
