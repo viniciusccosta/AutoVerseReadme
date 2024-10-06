@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=A+maldade+vai+se+espalhar+tanto%2C%3Bque+o+amor+de+muitos+esfriar%C3%A1%3Bmas+quem+ficar+firme%3Bat%C3%A9+o+fim+ser%C3%A1+salvo.%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A12-13+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Deus+n%C3%A3o+%C3%A9+como+os+homens%2C%3Bque+mentem%3Bn%C3%A3o+%C3%A9+um+ser+humano%2C%3Bque+muda+de+ideia.%3BQuando+foi+que+Deus+prometeu%3Be+n%C3%A3o+cumpriu%3F%3BEle+diz+que+faz+e+faz+mesmo.%3B%E2%9C%9D%EF%B8%8F+N%C3%BAmeros+23%3A19+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
