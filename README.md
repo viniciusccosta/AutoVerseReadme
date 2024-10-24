@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Aqui+est%C3%A1+o+meu+cora%C3%A7%C3%A3o%3BTentando+entender+esta+situa%C3%A7%C3%A3o%3BN%C3%A3o+quero+algo+plastificado%3BEu+preciso+mais+que+uma+religi%C3%A3o%3BPreciso+de+mudan%C3%A7as+de+h%C3%A1bitos%3BMais+que+um+show+de+bonecos+de+pl%C3%A1stico%3B%F0%9F%8E%B5+Palankin+-+Bonecos+de+Pl%C3%A1stico+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Deus+n%C3%A3o+%C3%A9+como+os+homens%2C%3Bque+mentem%3Bn%C3%A3o+%C3%A9+um+ser+humano%2C%3Bque+muda+de+ideia.%3BQuando+foi+que+Deus+prometeu%3Be+n%C3%A3o+cumpriu%3F%3BEle+diz+que+faz+e+faz+mesmo.%3B%E2%9C%9D%EF%B8%8F+N%C3%BAmeros+23%3A19+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
