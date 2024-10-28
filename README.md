@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=360&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=E+todos+os+que%3Bpor+minha+causa%3Bdeixarem+casas%3Birm%C3%A3os%2C+irm%C3%A3s%2C%3Bpai%2C+m%C3%A3e%2C+filhos+ou+terras%3Breceber%C3%A3o+cem+vezes+mais%3Be+tamb%C3%A9m+a+vida+eterna.%3BMuitos+que+agora+s%C3%A3o+os+primeiros%3Bser%C3%A3o+os+%C3%BAltimos%2C%3Be+muitos+que+agora+s%C3%A3o+os+%C3%BAltimos%3Bser%C3%A3o+os+primeiros.%3B%E2%9C%9D%EF%B8%8F+Mateus+19%3A29-30+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eu+habito+em+voc%C3%AA%3BVoc%C3%AA+habita+em+mim%3BNossa+can%C3%A7%C3%A3o+n%C3%A3o+mudou%3BEu+te+amo+e+voc%C3%AA+me+ama%3B%F0%9F%8E%B5+Luzlive+-+Trindade+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
