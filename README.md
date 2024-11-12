@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eu+habito+em+voc%C3%AA%3BVoc%C3%AA+habita+em+mim%3BNossa+can%C3%A7%C3%A3o+n%C3%A3o+mudou%3BEu+te+amo+e+voc%C3%AA+me+ama%3B%F0%9F%8E%B5+Luzlive+-+Trindade+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Aqui+est%C3%A1+o+meu+cora%C3%A7%C3%A3o%3BTentando+entender+esta+situa%C3%A7%C3%A3o%3BN%C3%A3o+quero+algo+plastificado%3BEu+preciso+mais+que+uma+religi%C3%A3o%3BPreciso+de+mudan%C3%A7as+de+h%C3%A1bitos%3BMais+que+um+show+de+bonecos+de+pl%C3%A1stico%3B%F0%9F%8E%B5+Palankin+-+Bonecos+de+Pl%C3%A1stico+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
