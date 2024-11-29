@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Este+povo+com+a+sua+boca+diz%3Bque+me+respeita%2C%3Bmas+na+verdade+o+seu+cora%C3%A7%C3%A3o%3Best%C3%A1+longe+de+mim.%3BA+adora%C3%A7%C3%A3o+deste+povo+%C3%A9+in%C3%BAtil%2C%3Bpois+eles+ensinam+leis+humanas%3Bcomo+se+fossem+meus+mandamentos.%3B%E2%9C%9D%EF%B8%8F+Mateus+15%3A8-9+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=At%C3%A9+que+o+Senhor+venha%3BEu+vou+clamar%3BAt%C3%A9+que+o+Senhor+venha%3BEu+n%C3%A3o+vou+descansar%3BAt%C3%A9+que+o+Senhor+venha%3BEu+vou+gastar+a+minha+vida%3BDiante+do+Teu+altar%2C+Deus%3BDiante+do+Teu+altar%3B%F0%9F%8E%B5+Minist%C3%A9rio+Zoe+-+At%C3%A9+que+o+Senhor+venha+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
