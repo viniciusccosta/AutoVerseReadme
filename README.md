@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Diziam+que+eram+coitados%3Bamorda%C3%A7ados+pela+censura%3BAgora+desfilam+nas+bancas%3Bimprimem+a+pr%C3%B3pria+ditadura%3BPobre+de+ti%2C+Betsaida%21%3BAi+de+ti%2C+Corazim%21%3BDessa+nossa+garganta%3Bvir%C3%A1+o+ju%C3%ADzo+do+teu+fim%3B%F0%9F%8E%B5+Resgate+-+A+hora+do+Brasil+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Nada+quebrado%2C+nada+faltando%3BNada+fora+do+lugar%3BTudo+novo%2C+tudo+novo%3BTudo+novo%2C+a+tua+presen%C3%A7a+faz%3B%F0%9F%8E%B5+Luzlive+-+Paz+Sem+Fim+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
