@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=330&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Jerusal%C3%A9m%2C+Jerusal%C3%A9m%2C%3Bque+mata+os+profetas%3Be+apedreja+os+mensageiros%3Bque+Deus+lhe+manda%21%3BQuantas+vezes+eu+quis+abra%C3%A7ar%3Btodo+o+seu+povo%2C%3Bassim+como+a+galinha%3Bajunta+os+seus+pintinhos%3Bdebaixo+das+suas+asas%2C%3Bmas+voc%C3%AAs+n%C3%A3o+quiseram%21%3B%E2%9C%9D%EF%B8%8F+Mateus+26%3A37+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Nunca+desista+da+vida%3BTudo+%C3%A9+poss%C3%ADvel+ao+que+cr%C3%AA%3BSempre+existe+uma+sa%C3%ADda%3BDeus+n%C3%A3o+se+esqueceu+de+voc%C3%AA%3B%F0%9F%8E%B5+Luzlive+-+Sorria+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
