@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Por+isso+voc%C3%AAs+tamb%C3%A9m+fiquem+vigiando%2C%3Bpois+o+Filho+do+Homem+chegar%C3%A1%3Bna+hora+em+que+voc%C3%AAs%3Bn%C3%A3o+estiverem+esperando%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A44+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eles+confundem+ilus%C3%A3o+com+liberdade%3BSe+dizem+sim%2C+se+dizem+livres%3BMas+n%C3%A3o+podem+dizer+n%C3%A3o%3BFazem+de+conta+que+a+imita%C3%A7%C3%A3o+%C3%A9+de+verdade%3B%F0%9F%8E%B5+Resgate+-+Ne%C3%B3fito+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
