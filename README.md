@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=300&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Quanto+a+estes+pequeninos%3Bque+creem+em+mim%3Bse+algu%C3%A9m+for+culpado%3Bde+um+deles+me+abandonar%3Bseria+melhor+para+essa+pessoa%3Bque+ela+fosse+jogada%3Bno+lugar+mais+fundo+do+mar%3Bcom+uma+pedra+grande%3Bamarrada+no+pesco%C3%A7o.%3B%E2%9C%9D%EF%B8%8F+Mateus+18%3A6+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Deus+n%C3%A3o+%C3%A9+como+os+homens%2C%3Bque+mentem%3Bn%C3%A3o+%C3%A9+um+ser+humano%2C%3Bque+muda+de+ideia.%3BQuando+foi+que+Deus+prometeu%3Be+n%C3%A3o+cumpriu%3F%3BEle+diz+que+faz+e+faz+mesmo.%3B%E2%9C%9D%EF%B8%8F+N%C3%BAmeros+23%3A19+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
