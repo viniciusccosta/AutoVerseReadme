@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Diziam+que+eram+coitados%3Bamorda%C3%A7ados+pela+censura%3BAgora+desfilam+nas+bancas%3Bimprimem+a+pr%C3%B3pria+ditadura%3BPobre+de+ti%2C+Betsaida%21%3BAi+de+ti%2C+Corazim%21%3BDessa+nossa+garganta%3Bvir%C3%A1+o+ju%C3%ADzo+do+teu+fim%3B%F0%9F%8E%B5+Resgate+-+A+hora+do+Brasil+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Que+o+Senhor+os+aben%C3%A7oe%3Be+os+guarde%3Bque+o+Senhor+os+trate+com+bondade%3Be+miseric%C3%B3rdia%3Bque+o+Senhor+olhe+para+voc%C3%AAs+com+amor%3Be+lhes+d%C3%AA+a+paz.%3B%E2%9C%9D%EF%B8%8F+N%C3%BAmeros+24%3A26+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
