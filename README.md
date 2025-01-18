@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=300&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Felizes+s%C3%A3o+voc%C3%AAs+quando+os+insultam%2C%3Bperseguem+e+dizem+todo+tipo+de+cal%C3%BAnia%3Bcontra+voc%C3%AAs+por+serem+meus+seguidores.%3BFiquem+alegres+e+felizes%2C%3Bpois+uma+grande+recompensa%3Best%C3%A1+guardada+no+c%C3%A9u+para+voc%C3%AAs.%3BPorque+foi+assim+mesmo%3Bque+perseguiram+os+profetas%3Bque+viveram+antes+de+voc%C3%AAs.%3B%E2%9C%9D%EF%B8%8F+Mateus+5%3A11-12+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eles+confundem+ilus%C3%A3o+com+liberdade%3BSe+dizem+sim%2C+se+dizem+livres%3BMas+n%C3%A3o+podem+dizer+n%C3%A3o%3BFazem+de+conta+que+a+imita%C3%A7%C3%A3o+%C3%A9+de+verdade%3B%F0%9F%8E%B5+Resgate+-+Ne%C3%B3fito+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
