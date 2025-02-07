@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Muitos+entregar%C3%A3o+os+seus+pr%C3%B3prios+irm%C3%A3os%3Bpara+serem+mortos%2C%3Be+os+pais+entregar%C3%A3o+os+filhos.%3BOs+filhos+ficar%C3%A3o+contra+os+pais%3Be+os+matar%C3%A3o.%3BTodos+odiar%C3%A3o+voc%C3%AAs%3Bpor+serem+meus+seguidores.%3BMas+quem+ficar+firme+at%C3%A9+o+fim+ser%C3%A1+salvo%3B%E2%9C%9D%EF%B8%8F+Mateus+10%3A21-22+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=330&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Ame+o+Senhor%2C+seu+Deus%2C%3Bcom+todo+o+cora%C3%A7%C3%A3o%2C%3Bcom+toda+a+alma%3Be+com+toda+a+mente.%E2%80%9D%3BEste+%C3%A9+o+maior+mandamento%3Be+o+mais+importante.%3BE+o+segundo+mais+importante%3B%C3%A9+parecido+com+o+primeiro%3BAme+os+outros%3Bcomo+voc%C3%AA+ama+a+voc%C3%AA+mesmo.%3B%E2%9C%9D%EF%B8%8F+Mateus+22%3A37-39+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
