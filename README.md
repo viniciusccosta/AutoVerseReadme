@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=At%C3%A9+que+o+Senhor+venha%3BEu+vou+clamar%3BAt%C3%A9+que+o+Senhor+venha%3BEu+n%C3%A3o+vou+descansar%3BAt%C3%A9+que+o+Senhor+venha%3BEu+vou+gastar+a+minha+vida%3BDiante+do+Teu+altar%2C+Deus%3BDiante+do+Teu+altar%3B%F0%9F%8E%B5+Minist%C3%A9rio+Zoe+-+At%C3%A9+que+o+Senhor+venha+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=A+maldade+vai+se+espalhar+tanto%2C%3Bque+o+amor+de+muitos+esfriar%C3%A1%3Bmas+quem+ficar+firme%3Bat%C3%A9+o+fim+ser%C3%A1+salvo.%3B%E2%9C%9D%EF%B8%8F+Mateus+24%3A12-13+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
