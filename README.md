@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=270&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=At%C3%A9+que+o+Senhor+venha%3BEu+vou+clamar%3BAt%C3%A9+que+o+Senhor+venha%3BEu+n%C3%A3o+vou+descansar%3BAt%C3%A9+que+o+Senhor+venha%3BEu+vou+gastar+a+minha+vida%3BDiante+do+Teu+altar%2C+Deus%3BDiante+do+Teu+altar%3B%F0%9F%8E%B5+Minist%C3%A9rio+Zoe+-+At%C3%A9+que+o+Senhor+venha+%F0%9F%8E%B5" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=150&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Eles+confundem+ilus%C3%A3o+com+liberdade%3BSe+dizem+sim%2C+se+dizem+livres%3BMas+n%C3%A3o+podem+dizer+n%C3%A3o%3BFazem+de+conta+que+a+imita%C3%A7%C3%A3o+%C3%A9+de+verdade%3B%F0%9F%8E%B5+Resgate+-+Ne%C3%B3fito+%F0%9F%8E%B5" alt="Image" />
     </a>
 </p>
 
