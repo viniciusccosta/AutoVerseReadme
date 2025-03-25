@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=210&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Pe%C3%A7am+e+voc%C3%AAs+receber%C3%A3o%3Bprocurem+e+voc%C3%AAs+achar%C3%A3o%3Bbatam%2C+e+a+porta+ser%C3%A1+aberta+para+voc%C3%AAs.%3BPorque+todos+aqueles+que+pedem+recebem%3Baqueles+que+procuram+acham%3Be+a+porta+ser%C3%A1+aberta+para+quem+bate.%3B%E2%9C%9D%EF%B8%8F+Mateus+7%3A7-8+%E2%9C%9D%EF%B8%8F" alt="Image" />
+        <img src="https://readme-typing-svg.demolab.com/?separator=;&font=Fira+Code&height=240&width=500&size=20&pause=100&color=A9FEF7&center=True&vCenter=True&multiline=True&duration=1500&repeat=True&lines=Pois+quem+p%C3%B5e%3Bos+seus+pr%C3%B3prios+interesses%3Bem+primeiro+lugar%3Bnunca+ter%C3%A1+a+vida+verdadeira%3Bmas+quem+esquece+a+si+mesmo%3Bpor+minha+causa%3Bter%C3%A1+a+vida+verdadeira.%3B%E2%9C%9D%EF%B8%8F+Mateus+16%3A25+%E2%9C%9D%EF%B8%8F" alt="Image" />
     </a>
 </p>
 
